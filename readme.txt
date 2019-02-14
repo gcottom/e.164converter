@@ -10,5 +10,3 @@ output will be returned to the main function and printed to the screen.
 
 Assumptions: Input is expected in any of 3 formats: 555-555-5555, (555)555-5555, and 5555555555
 E.164 format is +15555555555
-
-Online resources/third party software or libraries: none
